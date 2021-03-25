@@ -9,5 +9,6 @@ Write a python program that reads a number from a text file and outputs if the n
 
 **Validation**
 * The program will be provided to Dad to validate
+  * Use this Github repository to submit your code
 * Dad will provide the text file for Validation
 * Successful completion of the challenge will earn $5
